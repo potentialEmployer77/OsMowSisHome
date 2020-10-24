@@ -11,19 +11,8 @@ This project was written in Java using the Swing GUI toolkit.
 
 Short video demonstration available [here](https://youtu.be/65dBQBcDRs4).
 
-## Repository contents
-This repository contains:
-* src: OsMowSis source code
-* TestScenarioFiles: Sample scenario files
-* out/artifacts/OsMowSis_jar/OsMowSis.jar: OsMowSis JAR file
-* Documentation/DesignDocs: Class and sequence diagrams
-* Documentation/JavaDocs: JavaDoc documentation
-## Download and Usage Instructions
-This repository contains all the files needed to run a simulation. There are two main ways to download the project files and run the program:
-1.  Clone the repository using the following [git clone link](https://github.com/dhochman/OsMowSis.git). Navigate/change directory into OsMowSis/src and compile the source code by running the command `javac Main` from the command line. Finally, run the program from the command line via the following command `java Main`.
-2.  Download the Jar file from out/artifacts/OsMowSis_jar. Download the sample scenario files contained in the TestScenarioFiles directory either directly from this repository or by extracting it from the JAR file itself via the following command: `jar xf OsMowSis.jar TestScenarioFiles`. Finally, run the JAR file either from the command via `java -jar Main` or by double-clicking the JAR file icon. 
+<strong>Note that this is the public home page for the OsMowSis project, which is a private repository. In order to access the actual private repository and the project's source code, please log into this GitHub account (potentialEmployer77) using the login credential provided at the top of my resume.</strong>
 
-Regardless of how you choose to download OsMowSis, when you run it, you will be prompted immediately to select a scenario file in order to configure the simulation. Feel free to use any of the sample scenario files provided in the TestScenarioFiles directory or your own scenario file (as long as it is properly formatted according to the scenario file syntax).
 ## Simulation rules
 ### The lawn
 A relatively simple and straightforward model of the lawn serves as the basis for the simulation. Namely, the lawn is modeled as a rectangular grid, and further divided into uniform-sized squares much like a chessboard. Each square (by default) contains grass that needs to be cut, unless it contains an obstacle or some other artifact (i.e. a crater). Craters are static, and do not move or otherwise change locations during a simulation run. A square that contains a crater will not contain any grass. If a square contains a crater, then the lawnmower must avoid that square – entering the square will cause that mower to “crash”, which prevents that mower from performing any more actions during the simulation run.
