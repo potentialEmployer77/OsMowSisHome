@@ -11,7 +11,7 @@ This project was written in Java using the Swing GUI toolkit.
 
 Short video demonstration available [here](https://youtu.be/65dBQBcDRs4).
 
-<strong>Note that this is the public home page for the OsMowSis project, which is a private repository. In order to access the actual private repository and the project's source code, please log into this GitHub account (potentialEmployer77) using the login credential provided at the top of my resume.</strong>
+<strong>Note that this is the public home page for the OsMowSis project, which is a private repository. In order to access the actual private repository and the project's source code, please log into this GitHub account (potentialEmployer77) using the login credentials provided at the top of my resume.</strong>
 
 ## Simulation rules
 ### The lawn
