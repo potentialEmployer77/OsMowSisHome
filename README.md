@@ -1,5 +1,5 @@
 # OsMowSis
-Welcome to OsMowSis!
+Welcome to the public homepage for the private OsMowSis project repository.
 
 ![OsMowSis_example](Documentation/GitHubImages/OsMowSis_demo.gif)
 ## Overview
@@ -11,7 +11,7 @@ This project was written in Java using the Swing GUI toolkit.
 
 Short video demonstration available [here](https://youtu.be/65dBQBcDRs4).
 
-<strong>Note that this is the public home page for the OsMowSis project, which is a private repository. In order to access the actual private repository and the project's source code, please log into this GitHub account (potentialEmployer77) using the login credentials provided at the top of my resume.</strong>
+<strong>Note that this is the public homepage for the OsMowSis project, which is a private repository. In order to access the actual private repository and the project's source code, please log into this GitHub account (potentialEmployer77) using the login credentials provided at the top of my resume, and navigate to the [OsMowSis repository](https://github.com/potentialEmployer77/OsMowSis).</strong>
 
 ## Simulation rules
 ### The lawn
